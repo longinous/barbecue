@@ -35,7 +35,6 @@ net/sourceforge/barbecue/Main.class
 net/sourceforge/barbecue/linear/twoOfFive/Std2of5ModuleFactory.class
 net/sourceforge/barbecue/env/HeadlessEnvironment.class
 net/sourceforge/barbecue/BlankModule.class
-net/sourceforge/barbecue/BarcodePortlet.class
 net/sourceforge/barbecue/output/LabelLayoutFactory.class
 net/sourceforge/barbecue/Barcode.class
 net/sourceforge/barbecue/linear/ean/EAN13ModuleFactory.class

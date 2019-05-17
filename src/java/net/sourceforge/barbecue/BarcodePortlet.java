@@ -1,3 +1,4 @@
+/*
 
 package net.sourceforge.barbecue;
 
@@ -7,6 +8,7 @@ import java.io.*;
 import java.util.*;
 import net.sourceforge.barbecue.output.*;
 
+*/
 /**
  * 
  *  Barcode portlet
@@ -17,7 +19,8 @@ import net.sourceforge.barbecue.output.*;
  *        
  *  @author Sean Sullivan
  *
- */
+ *//*
+
 public class BarcodePortlet 
 		extends GenericPortlet
 		implements ResourceServingPortlet
@@ -127,3 +130,4 @@ public class BarcodePortlet
 		
 	}
 }
+*/
