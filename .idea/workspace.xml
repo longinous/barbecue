@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c09e248-e712-4b86-a475-84523bea9ed3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_interceptor_javax_interceptor_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_portlet_portlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom2_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barbecue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bump-version.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/net/sourceforge/barbecue/output/SVGOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/net/sourceforge/barbecue/output/SVGOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/barbecue-1.5-beta1-fix-linux-4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/barbecue-1.5-beta1-fix-linux-4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BarcodeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BarcodeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BarcodeImageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BarcodePortlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BarcodeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/BlankModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/CompositeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/Module.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/Modulo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/SeparatorModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/env/DefaultEnvironment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/env/Environment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/env/EnvironmentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/env/HeadlessEnvironment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/env/NonAWTEnvironment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/formatter/BarcodeFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/formatter/FormattingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/formatter/SVGFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/LinearBarcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/codabar/CodabarBarcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/codabar/ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/Accumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/CharBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/Code128Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/CodeChangeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code128/ShiftModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code39/Code39Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/code39/ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/ean/BooklandBarcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/ean/EAN13Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/ean/EAN13ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/ean/UCCEAN128Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/postnet/ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/postnet/PostNetBarcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/postnet/PostNetModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/twoOfFive/Int2of5Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/twoOfFive/Int2of5ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/twoOfFive/Std2of5Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/twoOfFive/Std2of5ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/upc/ModuleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/linear/upc/UPCABarcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/AbstractOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/CenteredLabelLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/DefaultLabelLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/EPSOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/GraphicsOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/LabelLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/LabelLayoutFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/MarginLabelLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/Output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/OutputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/SVGOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/output/SizingOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/twod/pdf417/PDF417Barcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/twod/pdf417/PDF417Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sourceforge/barbecue/twod/pdf417/PDF417Module.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/net/sourceforge/barbecue/output/SVGOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bump-version.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/java/net/sourceforge/barbecue/output/SVGOutput.java" />
+        <option value="$PROJECT_DIR$/bump-version.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="130" />
+    <option name="width" value="1655" />
+    <option name="height" value="937" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="barbecue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barbecue-1.5-beta1-fix-linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="barbecue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barbecue-1.5-beta1-fix-linux" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="barbecue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="barbecue-1.5-beta1-fix-linux" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c09e248-e712-4b86-a475-84523bea9ed3" name="Default Changelist" comment="" />
+      <created>1558093244116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558093244116</updated>
+      <workItem from="1558093247309" duration="374000" />
+      <workItem from="1558093638690" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="692000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1081" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32910052" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/sourceforge/barbecue/output/SVGOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bump-version.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>barbecue</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

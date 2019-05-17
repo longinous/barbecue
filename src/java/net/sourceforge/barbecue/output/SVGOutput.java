@@ -26,11 +26,11 @@
 
 package net.sourceforge.barbecue.output;
 
-import org.jdom.Document;
-import org.jdom.Element;
-import org.jdom.DocType;
-import org.jdom.Namespace;
-import org.jdom.output.XMLOutputter;
+import org.jdom2.Document;
+import org.jdom2.Element;
+import org.jdom2.DocType;
+import org.jdom2.Namespace;
+import org.jdom2.output.XMLOutputter;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
